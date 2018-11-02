@@ -23,6 +23,44 @@ body {
 	width: 100%;
 	text-align: center;
 }
+.aaa {
+	float: left;
+	margin-right: 15px;
+}
+.bbb {
+	clear: both;
+}
+.ccc {
+	float: right;
+}
+h1 {
+	font-size: 20px;
+	color: #000;
+	padding-bottom: 25px;
+	background-image: url(images/h1_bg.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+h2 {
+	font-size: 16px;
+	color: #F00;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: #F00;
+	padding-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+h3 {
+	font-size: 16px;
+	color: #000;
+}
+
+
+
+
+
+
 #contentTop {
 	width: 838px;
 	height: 75px;
